@@ -1,0 +1,6 @@
+c:\users\ilay\documents\visual studio 2013\Projects\MyList\MyList\bin\Debug\MyList.exe.config
+c:\users\ilay\documents\visual studio 2013\Projects\MyList\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+c:\users\ilay\documents\visual studio 2013\Projects\MyList\MyList\bin\Debug\MyList.exe
+c:\users\ilay\documents\visual studio 2013\Projects\MyList\MyList\bin\Debug\MyList.pdb
+c:\users\ilay\documents\visual studio 2013\Projects\MyList\MyList\obj\Debug\MyList.exe
+c:\users\ilay\documents\visual studio 2013\Projects\MyList\MyList\obj\Debug\MyList.pdb
